@@ -10,7 +10,7 @@ export default function params(){
   return (
     <div>
       <h1>Rotas Params
-        nome: {nome}
+        nome: {nome} 
         id: {id}
       </h1>
       <Link href='/routes'>
